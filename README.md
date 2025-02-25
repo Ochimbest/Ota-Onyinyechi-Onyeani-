@@ -1,21 +1,21 @@
- Ota-Onyinyechi-Onyeani
-2024/APP/HND/ 00132
-AIT 311 ASSIGNMENT 
-QUESTION 1: LOCATE 5 DISRUPTION OF AI
+NAME: Ota-Onyinyechi-Onyeani
+APP NUMBER: 2024/APP/HND/00132
+COURSE CODE: AIT 311 
+COURSE TITLE: Artificial Intelligence
+
+ASSIGNMENT QUESTION 1: LOCATE 5 DISRUPTION OF AI
 The following below are the disruption of AI
 1. Revolutionizing Healthcare
-AI is transforming medicine with early disease detection, personalized treatment plans, and robotic surgeries. AI-powered diagnostic tools help doctors detect conditions like cancer and heart disease faster and more accurately.
+Artificial Intelligence(AI) is transforming medicine with early disease detection, personalized treatment plans, and robotic surgeries. AI-powered diagnostic tools help doctors detect conditions like cancer and heart disease faster and more accurately.
 
-2. Enhancing Education and Learning
-AI powered tools like adaptive learning platforms, virtual tutors, and language processing software help students learn at their own pace. AI also assists teachers by automating grading and identifying struggling students for extra support.
+2. In Education , Artificial intelligence is Enhancing Education and Learning by powering tools like adaptive learning platforms, virtual tutors, and language processing software help students learn at their own pace. AI also assists teachers by automating grading and identifying struggling students for extra support.
 
-3. Boosting Business andProductivity
-AI automates repetitive tasks, improves decision making with data analytics, and enhances customer service with chatbots. Businesses can operate more efficiently, reduce costs, and focus on innovation.
+4. AI has helped in Boosting Business and Productivity by  automating repetitive tasks, improves decision making with data analytics, and enhances customer service with chatbots. Businesses can operate more efficiently, reduce costs, and focus on innovation.
 
-4. Advancing Smart Cities and Transportation
+5. Advancing Smart Cities and Transportation
 AI improves traffic management, reduces accidents with self-driving cars, and optimizes energy use in smart cities. It also enhances public safety through predictive policing and emergency response systems.
 
-5. Accelerating Scientific Research and  Innovation
+7. Accelerating Scientific Research and  Innovation
 AI speeds up discoveries in fields like climate science, space exploration, and drug development.
 
 QUESTION 2: WHAT ARE THE ADVANTAGES OF AI 
