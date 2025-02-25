@@ -32,17 +32,17 @@ Here are some of the advantages of AI
 
 5. Transportation – AI powers self-driving cars, manages traffic, predicts vehicle maintenance, optimizes logistics, and suggests travel routes.
 
-6.Communication andMedia – AI recommends content, translates languages instantly, writes news, adds subtitles, and detects fake news.
+6. Communication andMedia – AI recommends content, translates languages instantly, writes news, adds subtitles, and detects fake news.
 
-7.Security and Safety – AI improves surveillance, prevents cyberattacks, enhances facial recognition, predicts disasters, and secures smart homes.
+7. Security and Safety – AI improves surveillance, prevents cyberattacks, enhances facial recognition, predicts disasters, and secures smart homes.
 
-8.Environment and Sustainability – AI predicts climate change, manages energy use, improves farming, enhances waste recycling, and warns of disasters.
+8. Environment and Sustainability – AI predicts climate change, manages energy use, improves farming, enhances waste recycling, and warns of disasters.
 
-9.Entertainment & Creativity – AI creates music and art, enhances VR/AR experiences, improves film editing, powers smart gaming, and personalizes media.
+9. Entertainment & Creativity – AI creates music and art, enhances VR/AR experiences, improves film editing, powers smart gaming, and personalizes media.
 
-10.Manufacturing & Industry – AI automates production, prevents machine failures, uses smart robotics, optimizes supply chains, and ensures quality control.
+10. Manufacturing & Industry – AI automates production, prevents machine failures, uses smart robotics, optimizes supply chains, and ensures quality control.
 
-11.Daily Life & Productivity – AI assists with voice commands, automates smart homes, tracks fitness, manages schedules, and recommends products.
+11. Daily Life & Productivity – AI assists with voice commands, automates smart homes, tracks fitness, manages schedules, and recommends products.
 
 QUESTION 3: WHAT ARE THE DISADVANTAGES OF AI
 
